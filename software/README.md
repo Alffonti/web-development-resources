@@ -17,7 +17,7 @@
     - [Managing documents](#managing-documents)
     - [Tasks and project management](#tasks-and-project-management)
 
-- [Runtime environment](Runtime environment)
+- [Runtime environment](runtime-environment)
 
 - [Software package management system](software-package-management-system)
 
@@ -48,7 +48,7 @@
 
 - [macOS](https://www.apple.com/lae/macos)
 - [Zsh](https://zsh.sourceforge.io/Doc/)
-- [Oh My Zsh]([https://ohmyz.sh/](https://github.com/ohmyzsh/ohmyzsh/wiki)) (framework for managing your Zsh configuration)
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki) (framework for managing your Zsh configuration)
 
 ### Password managers
 
