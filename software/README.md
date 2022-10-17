@@ -25,7 +25,11 @@
 
 - [Version control system](#version-control-system)
 
+- [Virtual Machine Platforms & Containers](virtual-machine-platforms-containers)
+
 - [Web browsers](#web-browsers)
+
+- [Website testing](website-testing)
 
 
 ---
@@ -86,7 +90,16 @@
 
 - [Git](https://git-scm.com)
 
+### Virtual Machine Platforms & Containers
+
+- [Docker](https://docs.docker.com/)
+
 ### Web browsers
 
 - [Firefox](https://firefox-source-docs.mozilla.org/index.html)
 - [Chrome](https://developer.chrome.com/docs/)
+
+### Website testing
+
+- [CodePen](https://blog.codepen.io/documentation/)
+- [FSFiddle](https://docs.jsfiddle.net/)
