@@ -106,7 +106,7 @@
 - [Firefox](https://firefox-source-docs.mozilla.org/index.html)
 - [Chrome](https://developer.chrome.com/docs/)
 
-### Web Client-side source-code playground
+### Source-code playground
 
 - [CodePen](https://blog.codepen.io/documentation/)
 - [FSFiddle](https://docs.jsfiddle.net/)
