@@ -99,7 +99,7 @@
 - [Firefox](https://firefox-source-docs.mozilla.org/index.html)
 - [Chrome](https://developer.chrome.com/docs/)
 
-### Website testing
+### Web Client-side source-code playground
 
 - [CodePen](https://blog.codepen.io/documentation/)
 - [FSFiddle](https://docs.jsfiddle.net/)
