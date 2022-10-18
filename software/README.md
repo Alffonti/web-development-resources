@@ -10,6 +10,8 @@
 
 - [Operating Systems](#operating-systems)
 
+- [PaaS](#paas)
+
 - [Password managers](#password-managers)
 
 - [Productivity](#productivity)
@@ -57,6 +59,11 @@
 ### Password managers
 
 - :cloud: [Bitwarden](https://bitwarden.com/help/)
+
+### PaaS
+
+- [Netlify](https://docs.netlify.com/)
+- [Heroku](https://devcenter.heroku.com/)
 
 ### Productivity
 
